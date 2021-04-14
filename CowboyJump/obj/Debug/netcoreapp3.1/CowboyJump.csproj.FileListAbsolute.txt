@@ -1,0 +1,15 @@
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.exe
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.deps.json
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.runtimeconfig.json
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.runtimeconfig.dev.json
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.dll
+D:\CowboyJump\bin\Debug\netcoreapp3.1\CowboyJump.pdb
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.csprojAssemblyReference.cache
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.Form1.resources
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.csproj.GenerateResource.cache
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.AssemblyInfoInputs.cache
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.AssemblyInfo.cs
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.csproj.CoreCompileInputs.cache
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.dll
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.pdb
+D:\CowboyJump\obj\Debug\netcoreapp3.1\CowboyJump.genruntimeconfig.cache
